@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "title": "hey",
+      "id": 64
+    }
+  ],
+  "signUp": [
+    {
+      "email": "adebola@gmail.com",
+      "password": "qwerty",
+      "username": "ade",
+      "id": 1
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "pass",
+      "username": "ajagz",
+      "id": 2
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "pass",
+      "username": "ajagz",
+      "id": 3
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "qwe",
+      "username": "ajagz",
+      "id": 4
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "khavdcj ",
+      "username": "ajagz",
+      "id": 5
+    }
+  ]
+}
